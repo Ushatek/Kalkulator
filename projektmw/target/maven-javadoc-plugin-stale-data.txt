@@ -1,0 +1,62 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'18'
+-sourcepath
+'F:/Studia/Semestr4/Zaawansowana JAVA/Laboratoria/Projekt/projektmw/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'F:/Studia/Semestr4/Zaawansowana JAVA/Laboratoria/Projekt/projektmw/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'projektmw 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'projektmw 1.0-SNAPSHOT API'
+lab.projektmw
+listeners
+threads
+'F:/Studia/Semestr4/Zaawansowana JAVA/Laboratoria/Projekt/projektmw/src/main/java/lab/projektmw/Dieta.java'
+'F:/Studia/Semestr4/Zaawansowana JAVA/Laboratoria/Projekt/projektmw/src/main/java/lab/projektmw/DietaZOknami.java'
+'F:/Studia/Semestr4/Zaawansowana JAVA/Laboratoria/Projekt/projektmw/src/main/java/lab/projektmw/Projektmw.java'
+'F:/Studia/Semestr4/Zaawansowana JAVA/Laboratoria/Projekt/projektmw/src/main/java/lab/projektmw/SocketDieta.java'
+'F:/Studia/Semestr4/Zaawansowana JAVA/Laboratoria/Projekt/projektmw/src/main/java/listeners/AktualizujParametryListener.java'
+'F:/Studia/Semestr4/Zaawansowana JAVA/Laboratoria/Projekt/projektmw/src/main/java/listeners/DodajProduktListener.java'
+'F:/Studia/Semestr4/Zaawansowana JAVA/Laboratoria/Projekt/projektmw/src/main/java/listeners/DodajZPlikuListener.java'
+'F:/Studia/Semestr4/Zaawansowana JAVA/Laboratoria/Projekt/projektmw/src/main/java/listeners/KlawiszeListener.java'
+'F:/Studia/Semestr4/Zaawansowana JAVA/Laboratoria/Projekt/projektmw/src/main/java/listeners/WyslijListener.java'
+'F:/Studia/Semestr4/Zaawansowana JAVA/Laboratoria/Projekt/projektmw/src/main/java/listeners/ZmienParametryListener.java'
+'F:/Studia/Semestr4/Zaawansowana JAVA/Laboratoria/Projekt/projektmw/src/main/java/threads/NasluchiwaczThread.java'
+'F:/Studia/Semestr4/Zaawansowana JAVA/Laboratoria/Projekt/projektmw/src/main/java/threads/ZegarThread.java'
+F:\Studia\Semestr4\Zaawansowana JAVA\Laboratoria\Projekt\projektmw\src\main\java\java.7z = 1653083057081
+F:\Studia\Semestr4\Zaawansowana JAVA\Laboratoria\Projekt\projektmw\src\main\java = 1654892879355
+F:\Studia\Semestr4\Zaawansowana JAVA\Laboratoria\Projekt\projektmw\target\site\apidocs\allclasses-index.html = 1654984752454
+F:\Studia\Semestr4\Zaawansowana JAVA\Laboratoria\Projekt\projektmw\target\site\apidocs\allpackages-index.html = 1654984752457
+F:\Studia\Semestr4\Zaawansowana JAVA\Laboratoria\Projekt\projektmw\target\site\apidocs\constant-values.html = 1654984752266
+F:\Studia\Semestr4\Zaawansowana JAVA\Laboratoria\Projekt\projektmw\target\site\apidocs\copy.svg = 1654984752533
+F:\Studia\Semestr4\Zaawansowana JAVA\Laboratoria\Projekt\projektmw\target\site\apidocs\element-list = 1654984752182
+F:\Studia\Semestr4\Zaawansowana JAVA\Laboratoria\Projekt\projektmw\target\site\apidocs\help-doc.html = 1654984752521
+F:\Studia\Semestr4\Zaawansowana JAVA\Laboratoria\Projekt\projektmw\target\site\apidocs\index-all.html = 1654984752509
+F:\Studia\Semestr4\Zaawansowana JAVA\Laboratoria\Projekt\projektmw\target\site\apidocs\index.html = 1654984752419
+F:\Studia\Semestr4\Zaawansowana JAVA\Laboratoria\Projekt\projektmw\target\site\apidocs\jquery-ui.overrides.css = 1654984752602
+F:\Studia\Semestr4\Zaawansowana JAVA\Laboratoria\Projekt\projektmw\target\site\apidocs\member-search-index.js = 1654984752469
+F:\Studia\Semestr4\Zaawansowana JAVA\Laboratoria\Projekt\projektmw\target\site\apidocs\module-search-index.js = 1654984752462
+F:\Studia\Semestr4\Zaawansowana JAVA\Laboratoria\Projekt\projektmw\target\site\apidocs\overview-summary.html = 1654984752512
+F:\Studia\Semestr4\Zaawansowana JAVA\Laboratoria\Projekt\projektmw\target\site\apidocs\overview-tree.html = 1654984752410
+F:\Studia\Semestr4\Zaawansowana JAVA\Laboratoria\Projekt\projektmw\target\site\apidocs\package-search-index.js = 1654984752464
+F:\Studia\Semestr4\Zaawansowana JAVA\Laboratoria\Projekt\projektmw\target\site\apidocs\script.js = 1654984752531
+F:\Studia\Semestr4\Zaawansowana JAVA\Laboratoria\Projekt\projektmw\target\site\apidocs\search.js = 1654984752536
+F:\Studia\Semestr4\Zaawansowana JAVA\Laboratoria\Projekt\projektmw\target\site\apidocs\serialized-form.html = 1654984752292
+F:\Studia\Semestr4\Zaawansowana JAVA\Laboratoria\Projekt\projektmw\target\site\apidocs\stylesheet.css = 1654984752529
+F:\Studia\Semestr4\Zaawansowana JAVA\Laboratoria\Projekt\projektmw\target\site\apidocs\tag-search-index.js = 1654984752471
+F:\Studia\Semestr4\Zaawansowana JAVA\Laboratoria\Projekt\projektmw\target\site\apidocs\type-search-index.js = 1654984752467
